@@ -35,16 +35,18 @@ Github account and git installed on you system. A very basic knowledge of HTML.
 git clone git@github.com:anketsah/anketsah.github.io.git
 ```
 
-3. Open index.html in editor and add your details 
+3. Rename this repository on your github account, as ```<your_github_username>.github.io```
 
-4. Add your Resume/CV as <Resume.pdf> in place of images/Resume.pdf
+4. Open index.html in editor and add your details 
 
-5. Commit changes and push the updated repository from the command line
+5. Add your Resume/CV as <Resume.pdf> in place of images/Resume.pdf
+
+6. Commit changes and push the updated repository from the command line
 ```
 git push -u origin master
 ```
 
-6. Voila! Your site is up and running. To view, visit:
+7. Voila! Your site is up and running. To view, visit:
 ```
 https://<your-username>.github.io/
 ```
